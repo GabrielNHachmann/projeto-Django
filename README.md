@@ -1,0 +1,1 @@
+projeto utilizando o framework django para minha atividade do senai
